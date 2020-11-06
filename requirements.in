@@ -1,7 +1,7 @@
-matplotlib==3.*
-numpy
-pandas
-scipy
+#matplotlib==3.*
+#numpy
+#pandas
+#scipy
 #
-jupyterlab==2.*
-notebook
+#jupyterlab==2.*
+#notebook
