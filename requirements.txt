@@ -18,5 +18,5 @@ numpy
 pandas
 scipy
 virtualenv
-hide-code
+#hide-code
 ipympl
