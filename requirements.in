@@ -1,0 +1,7 @@
+matplotlib==3.*
+numpy
+pandas
+scipy
+#
+jupyterlab==2.*
+notebook
