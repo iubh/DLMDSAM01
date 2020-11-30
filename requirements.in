@@ -1,8 +1,0 @@
-#matplotlib==3.*
-#numpy
-#pandas
-#scipy
-#ipympl
-#
-#jupyterlab==2.*
-#notebook
