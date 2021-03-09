@@ -9,7 +9,11 @@ jupyterlab==2.2.9
 #
 ipympl==0.5.8
 matplotlib==3.3.1
-# numpy==1.19.3  # version 1.19.4 does not work on windows machines
+numpy==1.19.3  # version 1.19.4 does not work on windows machines
 pandas==1.2.1
 scipy==1.6.0
-opencv-python
+#
+opencv-contrib-python>=4.0.
+cvlib==0.1.8
+scikit-image==0.14.2
+#face-recognition==1.2.3
